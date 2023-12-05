@@ -1,5 +1,5 @@
 ## Welcome to TropicaMC's Github! 
-Currently Theres nothing here for you to actually look at, except this. 
+If you would like to suggest a suggestion or submit a bug report, please head over to [the issue page](https://github.com/TropicaMC/TropicaMC/issues/new/choose)
 
 ### Links
 [TropicaMC Website](https://tropicamc.com/)<br>
